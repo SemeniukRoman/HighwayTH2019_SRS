@@ -28,3 +28,6 @@ public class HomeWork2 {
         System.out.println("Count biggest numder: " + count);
     }
     }
+
+
+
