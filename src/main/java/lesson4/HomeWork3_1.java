@@ -10,8 +10,6 @@ public class HomeWork3_1 {
         int c = 0;
         int d = 0;
         int e = 0;
-        int min = 0;
-        int max = 0;
 
         Scanner in = new Scanner(System.in);
 

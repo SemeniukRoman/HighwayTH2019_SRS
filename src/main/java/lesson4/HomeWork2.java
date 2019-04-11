@@ -10,8 +10,7 @@ public class HomeWork2 {
         int b = 0;
         int c = 0;
         int d = 0;
-        int max =0;
-        int count = 0;
+        int q = 0;
 
         Scanner in = new Scanner(System.in);
 
@@ -26,6 +25,7 @@ public class HomeWork2 {
 
         int answer = Math.max(Math.max(a, b), Math.max(c, d));
         System.out.println("The biggest number: " + answer);
+
     }
     }
 
