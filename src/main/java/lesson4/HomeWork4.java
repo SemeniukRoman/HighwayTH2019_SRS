@@ -18,3 +18,6 @@ public class HomeWork4 {
         } else System.out.println("Имена разные");
             }
         }
+
+
+        
